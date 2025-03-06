@@ -1,0 +1,82 @@
+[
+    {
+        "equipment_id": "batt_1",
+        "space_id": "lab001",
+        "name": "Battery 1",
+        "type": "Battery",
+        "manufacturer": "B",
+        "model": "SimBatt-2025"
+    },
+    {
+        "equipment_id": "batt_2",
+        "space_id": "lab001",
+        "name": "Battery 2",
+        "type": "Battery",
+        "manufacturer": "B",
+        "model": "SimBatt-2025"
+    },
+    {
+        "equipment_id": "batt_3",
+        "space_id": "lab001",
+        "name": "Battery 3",
+        "type": "Battery",
+        "manufacturer": "A",
+        "model": "SimBatt-2025"
+    },
+    {
+        "equipment_id": "batt_4",
+        "space_id": "lab001",
+        "name": "Battery 4",
+        "type": "Battery",
+        "manufacturer": "A",
+        "model": "SimBatt-2025"
+    },
+    {
+        "equipment_id": "batt_5",
+        "space_id": "lab001",
+        "name": "Battery 5",
+        "type": "Battery",
+        "manufacturer": "B",
+        "model": "SimBatt-2025"
+    },
+    {
+        "equipment_id": "batt_6",
+        "space_id": "lab001",
+        "name": "Battery 6",
+        "type": "Battery",
+        "manufacturer": "C",
+        "model": "SimBatt-2025"
+    },
+    {
+        "equipment_id": "batt_7",
+        "space_id": "lab001",
+        "name": "Battery 7",
+        "type": "Battery",
+        "manufacturer": "A",
+        "model": "SimBatt-2025"
+    },
+    {
+        "equipment_id": "batt_8",
+        "space_id": "lab001",
+        "name": "Battery 8",
+        "type": "Battery",
+        "manufacturer": "C",
+        "model": "SimBatt-2025"
+    },
+    {
+        "equipment_id": "batt_9",
+        "space_id": "lab001",
+        "name": "Battery 9",
+        "type": "Battery",
+        "manufacturer": "A",
+        "model": "SimBatt-2025"
+    },
+    {
+        "equipment_id": "batt_10",
+        "space_id": "lab001",
+        "name": "Battery 10",
+        "type": "Battery",
+        "manufacturer": "A",
+        "model": "SimBatt-2025"
+    }
+]

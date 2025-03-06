@@ -1,0 +1,142 @@
+[
+    {
+        "sensor_id": "s_power_1",
+        "equipment_id": "batt_1",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_1",
+        "equipment_id": "batt_1",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    },
+    {
+        "sensor_id": "s_power_2",
+        "equipment_id": "batt_2",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_2",
+        "equipment_id": "batt_2",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    },
+    {
+        "sensor_id": "s_power_3",
+        "equipment_id": "batt_3",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_3",
+        "equipment_id": "batt_3",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    },
+    {
+        "sensor_id": "s_power_4",
+        "equipment_id": "batt_4",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_4",
+        "equipment_id": "batt_4",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    },
+    {
+        "sensor_id": "s_power_5",
+        "equipment_id": "batt_5",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_5",
+        "equipment_id": "batt_5",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    },
+    {
+        "sensor_id": "s_power_6",
+        "equipment_id": "batt_6",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_6",
+        "equipment_id": "batt_6",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    },
+    {
+        "sensor_id": "s_power_7",
+        "equipment_id": "batt_7",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_7",
+        "equipment_id": "batt_7",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    },
+    {
+        "sensor_id": "s_power_8",
+        "equipment_id": "batt_8",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_8",
+        "equipment_id": "batt_8",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    },
+    {
+        "sensor_id": "s_power_9",
+        "equipment_id": "batt_9",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_9",
+        "equipment_id": "batt_9",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    },
+    {
+        "sensor_id": "s_power_10",
+        "equipment_id": "batt_10",
+        "type": "power",
+        "unit": "kW",
+        "measurement_range": "0-50"
+    },
+    {
+        "sensor_id": "s_temp_10",
+        "equipment_id": "batt_10",
+        "type": "temperature",
+        "unit": "\u00b0C",
+        "measurement_range": "0-100"
+    }
+]
